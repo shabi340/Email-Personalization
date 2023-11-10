@@ -11,6 +11,17 @@
 - Dataset Source: [Consumer Behavior and Shopping Habits Dataset](https://www.kaggle.com/datasets/zeesolver/consumer-behavior-and-shopping-habits-dataset?select=shopping_trends.csv)
 - Original Creator: ZEE SOLVER
 
+## **Project Structure**
+- **input/**: This directory contains the datasets used.
+  - *shopping_trends.csv*: This file contains sample data representing customer preferences and trends.
+  - *item_list.csv*: This dataset provides information about items, including their corresponding categories and seasons.
+- **notebook/**: This directory contains the Jupyter notebook for the project.
+  - *Personalizing Emails.ipynb*: This notebook encompasses the entire codebase for the project.
+- **output/**: This directory contains the generated outputs.
+  - *email_content1.csv*: This file contains the output for customers who shop on a fortnightly or monthly basis.
+  - *email_content2.csv*: This file contains the output for customers who shop on a bi-weekly or weekly basis.
+- **README.md**: This is the main documentation file providing an overview of the project and its structure.
+
 ## **Tools and Libraries Used**
 - Python
 - pandas (for data manipulation)
