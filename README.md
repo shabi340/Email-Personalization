@@ -6,6 +6,10 @@
 ## **Visualization**
 ![Trend Graph](https://github.com/shabi340/Email-Personalization/assets/68024510/2babe091-9be6-4b08-9db4-10155a43df48)
 
+## **Dataset Used**
+**The dataset used in this project was obtained from Kaggle:**
+- Dataset Source: [Consumer Behavior and Shopping Habits Dataset](https://www.kaggle.com/datasets/zeesolver/consumer-behavior-and-shopping-habits-dataset?select=shopping_trends.csv)
+- Original Creator: ZEE SOLVER
 
 ## **Tools and Libraries Used**
 - Python
