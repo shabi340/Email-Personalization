@@ -1,7 +1,7 @@
 # **Personalizing Email for efficient advertisement in the field of marketing**
 
 ## **Overview**
-*The "Personalized Marketing Campaign" project aims to target specific customers with tailored email offers based on their shopping behavior and preferences. The project utilizes Python programming language and various data processing libraries to achieve this.*
+*The "Personalizing Email for efficient advertisement in the field of marketing" project aims to target specific customers with tailored email offers based on their shopping behavior and preferences. The project utilizes Python programming language and various data processing libraries to achieve this.*
 
 ## **Visualization**
 ![Trend Graph](https://github.com/shabi340/Email-Personalization/assets/68024510/2babe091-9be6-4b08-9db4-10155a43df48)
